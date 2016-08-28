@@ -1,0 +1,3 @@
+HOSTNAME="ajsydt03"
+INTERFACE="eth0"
+ADDRESS="10.0.0.203"

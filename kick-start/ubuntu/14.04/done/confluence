@@ -1,0 +1,3 @@
+HOSTNAME="confluence"
+INTERFACE="eth0"
+ADDRESS="10.0.0.220"
